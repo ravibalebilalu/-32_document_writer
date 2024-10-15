@@ -16,7 +16,7 @@
   ```
  ## Run app
   ```
- cd  32_document_writer
+ cd  -32_document_writer
  npm install
  npm run dev
   ```
