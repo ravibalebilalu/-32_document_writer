@@ -1,6 +1,6 @@
  # Document Writer
 
- ### Here is a tiny rect project which features simple text editing.
+ ### Here is a tiny react project which features simple text editing.
  ### We can save edited text in  local drive as text file!
 
 
