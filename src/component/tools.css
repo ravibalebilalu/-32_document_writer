@@ -1,0 +1,21 @@
+.tools{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background-color: hsla(120, 12%, 39%, 0.729);
+}
+.font-family{
+    
+}
+.font-color,.bg-color{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 5px;
+}
+
+.text-align,.indent{
+    display: flex;
+    gap: 5px;
+}

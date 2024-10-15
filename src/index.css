@@ -1,0 +1,13 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+ body{
+  background: hwb(0 9% 91% / 0.767);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }

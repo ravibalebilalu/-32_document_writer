@@ -1,9 +1,22 @@
-# React + Vite
+ # Document Writer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ### Here is a tiny rect project which features simple text editing.
+ ### We can save edited text in  local drive as text file!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# -32_document_writer
+ ![app](src/assets/screenshot.png.png)
+ 
+ 
+ ## Download project
+ 
+ 
+ 
+  ```
+  git clone  https://github.com/ravibalebilalu/-32_document_writer.git
+  ```
+ ## Run app
+  ```
+ cd  32_document_writer
+ npm install
+ npm run dev
+  ```
